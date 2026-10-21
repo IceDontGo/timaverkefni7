@@ -6,6 +6,10 @@
 // HLUTI 1
 // ---------------------------------------------
 
+//ATHUGASEMD
+//Er frekar týndur í þessum javascript parti og þarf að fara aftur yfir kaflana
+//fyrir þetta verkefni. En ég náði að breyta útliti síðunnar í tilefni dagsins.
+
 function convert() {
   console.log("convert keyrir");
 
